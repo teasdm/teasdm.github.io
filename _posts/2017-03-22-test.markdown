@@ -4,3 +4,10 @@ title: commit and push
 date: 2017-03-22
 categories: test
 ---
+post update
+
+git add .
+
+git commit -m "comment"
+
+git push
